@@ -146,7 +146,21 @@ Ao criar uma tarefa com **mais de 120 minutos estimados**, o backend divide auto
 | DELETE | `/tasks/{id}` | Deletar tarefa | ✅ |
 
 ---
+PS C:\Users\supor\Study_Flow> .\run.bat                                                                
+=========================================
+   INICIANDO AMBIENTE STUDYFLOW
+=========================================
+
+[1] Iniciando Backend FastAPI na porta 8000...
+[2] Iniciando Frontend React (Vite) na porta 5173...
+
+Os servidores foram abertos em novas janelas!
+
+Para testar, abra no seu navegador:
+Frontend (Telas): http://localhost:5173
+Backend (Documentacao API): http://localhost:8000/docs
 
 ## 👥 Equipe
+Maria Claudia Freitas
 
 Projeto desenvolvido para a disciplina **Métodos e Aplicações de IA** — 2026.
